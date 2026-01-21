@@ -1,0 +1,6 @@
+Name: Adeola Daniel
+Matric Number: 22CG031809
+Machine Learning Algorithm Used: Random Forest Classifier
+Model persistence method used: Joblib
+Live URL of the hosted application: [INSERT LIVE URL AFTER DEPLOYMENT]
+GitHub repository link: [INSERT GITHUB REPO LINK AFTER PUSHING]
