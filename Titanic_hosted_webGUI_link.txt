@@ -2,5 +2,5 @@ Name: Adeola Daniel
 Matric Number: 22CG031809
 Machine Learning Algorithm Used: Random Forest Classifier
 Model persistence method used: Joblib
-Live URL of the hosted application: [INSERT LIVE URL AFTER DEPLOYMENT]
-GitHub repository link: [INSERT GITHUB REPO LINK AFTER PUSHING]
+Live URL of the hosted application: titanic-project-adeola-daniel-22cg031809.onrender.com
+GitHub repository link: https://github.com/Daniel-20051/Titanic_Project_ADEOLA-DANIEL_22CG031809.git
